@@ -17,7 +17,7 @@ title: CS55500
 tagline: Cryptography
 description: Course website for Purdue Cryptography
 author: Justin He
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: 'cs55500.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
