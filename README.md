@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CS 55500 F25: Cryptography
+title: CS 55500 F25
 nav_exclude: true
 permalink: /:path/
 seo:
