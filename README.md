@@ -8,7 +8,7 @@ seo:
   name: Purdue
 ---
 
-# Home Page
+# Purdue CS55500 Cryptography Home Page
 
 Place holder description
 
