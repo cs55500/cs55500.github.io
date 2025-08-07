@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# Syllabus
+# CS 55500: Cryptography 
 {:.no_toc}
 
 ## Table of contents
