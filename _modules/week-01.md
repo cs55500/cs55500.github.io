@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: Basics and Private-Key Cryptography
 ---
 
 Sep 28
