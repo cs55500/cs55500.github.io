@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-## About
+## Course Description
 
 The field of cryptography gives us a technical language to define important real-world problems such as security, privacy and integrity, a mathematical toolkit to construct mechanisms such as encryption, digital signatures, zero-knowledge proofs, homomorphic encryption and secure multiparty computation, and a complexity-theoretic framework to prove security using reductions. Together, they help us enforce the rules of the road in digital interactions.
 
@@ -28,8 +28,10 @@ The course will explore the rich theory of cryptography all the way from the bas
 
 Tuesday,Thursday
 08/25/2025 - 12/13/2025
+
 09:00 AM - 10:15 AM
-West Lafayette Campus | Max W & Maileen Brown Hall | Room 236
+
+West Lafayette Campus, Max W & Maileen Brown Hall Room 236
 
 ## Resources
 
