@@ -47,5 +47,5 @@ Solutions will be posted on piazza.
 
 Released problem sets:
 
-## COLLABORATION POLICY:
+## Collaboration Policy:
 Collaboration is permitted and encouraged in small groups of at most three students. You are free to collaborate in discussing answers, but you must write up solutions on your own, and must specify in your submission the names of any collaborators. Do not copy any text from your collaborators; the writeup must be entirely your work. Do not write down solutions on a board and copy it verbatim into Latex; again, the writeup must be entirely your own words and your own work and should demonstrate clear understanding of the solution. Additionally, you may make use of published material, provided that you acknowledge all sources used. Of course, scavenging for solutions from prior years is forbidden.
