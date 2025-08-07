@@ -22,7 +22,9 @@ The course will explore the rich theory of cryptography all the way from the bas
 
 Tuesday,Thursday
 08/25/2025 - 12/13/2025
+
 09:00 AM - 10:15 AM
+
 West Lafayette Campus | Max W & Maileen Brown Hall | Room 236
 
 ## Resources
