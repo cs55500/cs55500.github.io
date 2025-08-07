@@ -1,12 +1,4 @@
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 ## About
 
 The field of cryptography gives us a technical language to define important real-world problems such as security, privacy and integrity, a mathematical toolkit to construct mechanisms such as encryption, digital signatures, zero-knowledge proofs, homomorphic encryption and secure multiparty computation, and a complexity-theoretic framework to prove security using reductions. Together, they help us enforce the rules of the road in digital interactions.
@@ -28,6 +20,7 @@ West Lafayette Campus | Max W & Maileen Brown Hall | Room 236
 
 We will use Piazza for class communication.
 
+This course's content is adapted from mit6875.org
 
 ## Assignments
 
