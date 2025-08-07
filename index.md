@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# CS 55500: Cryptography 
+# Purdue CS 55500: Cryptography 
 {:.no_toc}
 
 ## Table of contents
