@@ -1,11 +1,8 @@
 ---
-name: Kevin Lin
+name: Hanshen Xiao
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: hsxiao@purdue.edu
+#photo: kevin.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: TBD
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }

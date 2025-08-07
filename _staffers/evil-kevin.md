@@ -1,9 +1,9 @@
 ---
-name: Evil Kevin
+name: Justin He
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: he924@purdue.edu
 ---
 
-I like teaching Computer Science!
+meta:
+  Office Hours: TBD
+---
