@@ -1,4 +1,4 @@
 ---
-title: Secure Computation
+title: Digital Signature and Hash Functions
 ---
 

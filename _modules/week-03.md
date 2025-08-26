@@ -1,4 +1,4 @@
 ---
-title: Zero Knowledge
+title: Public-key Encryption
 ---
 

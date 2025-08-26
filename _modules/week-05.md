@@ -1,4 +1,4 @@
 ---
-title: Advanced Topics
+title: Secret Sharing
 ---
 
