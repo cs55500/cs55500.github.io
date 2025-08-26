@@ -27,6 +27,11 @@ schedule:
         start: 9:00 AM
         end: 10:15 AM
         location: Max W & Maileen Brown Hall
+    events:
+      - name: Professor Office Hours
+        start: 10:30 AM
+        end: 11:30 AM
+        location: Max W & Maileen Brown Hall
   - name: Wednesday
   - name: Thursday
     events:
@@ -34,6 +39,11 @@ schedule:
       start: 9:00 AM
       end: 10:15 AM
       location: Max W & Maileen Brown Hall
+    events:
+      - name: TA Office Hours
+        start: 10:30 AM
+        end: 11:30 AM
+        location: Max W & Maileen Brown Hall
   - name: Friday
     events:
 
