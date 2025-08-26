@@ -1,13 +1,4 @@
-# Purdue CS 55500: Cryptography 
-{:.no_toc}
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Course Description
 
@@ -42,7 +33,7 @@ Additional materials will be uploaded here after lectures.
 ## Logistics
 
 + Piazza for questions 
-    + Signup link: https://piazza.com/purdue/fall2025/cs555
+    + Signup link: [https://piazza.com/purdue/fall2025/cs555](https://piazza.com/purdue/fall2025/cs555)
 + Gradescope for Psets 
 
 ## Grading
