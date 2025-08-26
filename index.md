@@ -24,6 +24,10 @@ The last few years have witnessed dramatic developments in the foundations of cr
 
 The course will explore the rich theory of cryptography all the way from the basics to the recent developments.
 
+## Prerequisites
+
+This is a fast‑paced graduate course. You should be fluent in algorithms, complexity theory, and discrete probability, and comfortable writing mathematical proofs.
+
 ## Lecture
 
 Tuesday,Thursday
