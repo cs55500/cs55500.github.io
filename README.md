@@ -1,10 +1,3 @@
----
-layout: page
-title: Syllabus
-description: >-
-    Course policies and information.
----
-
 # Purdue CS 55500: Cryptography 
 {:.no_toc}
 
