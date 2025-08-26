@@ -30,12 +30,13 @@ This is a fast‑paced graduate course. You should be fluent in algorithms, comp
 
 ## Lecture
 
-Tuesday,Thursday
-08/25/2025 - 12/13/2025
+  Tuesday, Thursdays
+  
+  08/25/2025 - 12/13/2025
 
-09:00 AM - 10:15 AM
+  09:00 AM - 10:15 AM
 
-West Lafayette Campus, Max W & Maileen Brown Hall Room 236
+  West Lafayette Campus, Max W & Maileen Brown Hall Room 236
 
 ## Resources
 
@@ -48,6 +49,7 @@ Additional materials will be uploaded here after lectures.
 ## Logistics
 
 + Piazza for questions 
+    + Signup link: https://piazza.com/purdue/fall2025/cs555
 + Gradescope for Psets 
 
 ## Grading
