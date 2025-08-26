@@ -3,7 +3,7 @@ title: Background of Information Security
 ---
 
 August 26
-: [Overview and Syllabus]()
-  : [Lecture 1](files/slides.pptx){:target="_blank"}
+: Syllabus and Introduction
+  : [Lecture 1](slides/Lecture1.pptx){:target="_blank"}
 
 
