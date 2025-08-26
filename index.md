@@ -39,20 +39,29 @@ West Lafayette Campus, Max W & Maileen Brown Hall Room 236
 
 ## Resources
 
-We will use Piazza for class communication.
+[Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf), by Shafi Goldwasser and Mihir Bellare
 
-This course's content is adapted from mit6875.org
+[Introduction to Modern Cryptography](https://www.cs.umd.edu/~jkatz/imc.html), by Jonathan Katz and Yehuda Lindell
 
-## Assignments
+Additional materials will be uploaded here after lectures.
 
-Grading will be based on the problem sets, midterm exam, and class participation. There will be 6 problem sets and your top 5 scores will count towards your grade. You have a total of 10 late days to use across the 6 psets (max of 5 late days for any single pset). You can use these late days however you like; we will use the timestamp of your Gradescope submission to calculate the number of late days.
+## Logistics
 
-Submitting psets:
-You should typeset your pset answers in LaTeX.
-PDFs are to be submitted via Gradescope on or before 11:59:59pm ET on the due date. The Gradescope access code is available on the course information page on Piazza.
-Solutions will be posted on piazza.
++ Piazza for questions 
++ Gradescope for Psets 
 
-Released problem sets:
+## Grading
+
++ Homework (40%)
+    + 4 problem sets in total, 2 weeks for each
++ Mid-term Exam (25%)
++ Class participation (5%)
++ Final Project (30%)
+    + Group (2 people) presentation (20 min) on a cryptography application
++ **Bonus** (5% + 5%) 
+    + Lecture notes (4 weeks) 
+    + Bonus problems in each pset 
+
 
 ## Collaboration Policy
 Collaboration is permitted and encouraged in small groups of at most three students. You are free to collaborate in discussing answers, but you must write up solutions on your own, and must specify in your submission the names of any collaborators. Do not copy any text from your collaborators; the writeup must be entirely your work. Do not write down solutions on a board and copy it verbatim into Latex; again, the writeup must be entirely your own words and your own work and should demonstrate clear understanding of the solution. Additionally, you may make use of published material, provided that you acknowledge all sources used. Of course, scavenging for solutions from prior years is forbidden.
