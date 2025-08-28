@@ -39,9 +39,9 @@ schedule:
       end: 10:15 AM
       location: Max W & Maileen Brown Hall
     - name: TA Office Hours
-      start: 10:30 AM
-      end: 11:30 AM
-      location: Max W & Maileen Brown Hall
+      start: 11:00 AM
+      end: 1:00 PM
+      location: Virtual
   - name: Friday
     events:
 
