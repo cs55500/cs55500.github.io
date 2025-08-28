@@ -41,7 +41,7 @@ schedule:
     - name: TA Office Hours
       start: 11:00 AM
       end: 1:00 PM
-      location: Virtual
+      location: https://purdue-edu.zoom.us/j/93558959810
   - name: Friday
     events:
 
