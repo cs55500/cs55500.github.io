@@ -40,7 +40,7 @@ schedule:
       location: Max W & Maileen Brown Hall
     - name: TA Office Hours
       start: 11:00 AM
-      end: 12:00 PM
+      end: 12:01 PM
       location: https://purdue-edu.zoom.us/j/93558959810
   - name: Friday
     events:
