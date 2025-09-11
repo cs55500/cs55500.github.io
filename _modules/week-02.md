@@ -17,3 +17,7 @@ September 9
   : [Pset 1](psets/CS55500_Pset_1.zip){:target="_blank"}  
 
   : [Pset 1 Overleaf](https://www.overleaf.com/read/grqcjktnyzwr#73fa80){:target="_blank"}
+
+September 11
+: GL Theorem Cont. Stateless Encryptuion, Psuedorandom Functions
+  : [Lecture 6](slides/Lecture6.pptx){:target="_blank"} 
