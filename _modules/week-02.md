@@ -21,3 +21,7 @@ September 9
 September 11
 : GL Theorem Cont. Stateless Encryptuion, Psuedorandom Functions
   : [Lecture 6](slides/Lecture6.pptx){:target="_blank"} 
+
+September 16
+: GGM Construction, More PRFs
+  : [Lecture 6](slides/Lecture6.pptx){:target="_blank"} 
