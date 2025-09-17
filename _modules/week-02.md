@@ -24,4 +24,4 @@ September 11
 
 September 16
 : GGM Construction, More PRFs
-  : [Lecture 6](slides/Lecture6.pptx){:target="_blank"} 
+  : [Lecture 7](slides/Lecture7.pptx){:target="_blank"} 
