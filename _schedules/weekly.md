@@ -30,7 +30,10 @@ schedule:
       - name: Professor Office Hours
         start: 10:30 AM
         end: 11:30 AM
-        location: Max W & Maileen Brown Hall
+        location: LWSN 2142E
+        name: Professor Office Hours
+        start: 5:00 PM
+        end: 5:30 PM
   - name: Wednesday
   - name: Thursday
     events:
