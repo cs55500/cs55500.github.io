@@ -31,9 +31,10 @@ schedule:
         start: 10:30 AM
         end: 11:30 AM
         location: LWSN 2142E
-        name: Professor Office Hours Two
+        name: Professor Office Hours
         start: 5:00 PM
         end: 5:30 PM
+        location: LWSN 2142E
   - name: Wednesday
   - name: Thursday
     events:
