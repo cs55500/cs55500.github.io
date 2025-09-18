@@ -25,3 +25,7 @@ September 11
 September 16
 : GGM Construction, More PRFs
   : [Lecture 7](slides/Lecture7.pptx){:target="_blank"} 
+
+September 18
+: More Applications of PRFs
+  : [Lecture 8](slides/Lecture8.pptx){:target="_blank"} 
