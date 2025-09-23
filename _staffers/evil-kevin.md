@@ -4,6 +4,6 @@ role: Teaching Assistant
 email: he924@purdue.edu
 
 meta:
-  Office: https://purdue-edu.zoom.us/j/93558959810
-  Office Hours: Thursday 11:00 AM - 12:00 PM
+  Office: LWSN 1st Floor (Office Hour Area)
+  Office Hours: Thursday 10:30 AM - 12:30 PM
 ---
