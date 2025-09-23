@@ -13,3 +13,4 @@ August 28
 September 2
 : Leakage, One-time pad, Perfect Secrecy, Computational Indistinguishability, Initialization Vector
   : [Lecture 3](slides/Lecture3.pptx){:target="_blank"}
+  
