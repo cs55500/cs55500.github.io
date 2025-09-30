@@ -29,11 +29,3 @@ September 16
 September 18
 : More Applications of PRFs
   : [Lecture 8](slides/Lecture8.pptx){:target="_blank"} 
-
-September 23
-: Diffie-Hellman
-  : [Lecture 9](slides/Lecture9.pptx){:target="_blank"} 
-
-September 25
-: Lecture 10
-  : [Lecture 10](slides/Lecture10.pptx){:target="_blank"} 
