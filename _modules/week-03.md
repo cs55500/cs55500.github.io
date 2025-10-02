@@ -22,5 +22,5 @@ September 30
 October 2
 : Lecture 12
   : [Lecture 12](slides/Lecture12.pptx){:target="_blank"} 
-  : [Pset 2 Practice Overleaf](https://www.overleaf.com/read/wqnyjkgtthyb#5b0e85){:target="_blank"} 
+ 
 
