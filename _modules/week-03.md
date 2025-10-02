@@ -19,3 +19,7 @@ September 30
 
   : [Pset 2 Overleaf](https://www.overleaf.com/read/chdqddyxydcb#bd1f96){:target="_blank"} 
 
+October 2
+: Lecture 12
+  : [Lecture 12](slides/Lecture12.pptx){:target="_blank"} 
+
