@@ -24,3 +24,7 @@ October 2
   : [Lecture 12](slides/Lecture12.pptx){:target="_blank"} 
  
 
+October 7
+: Lecture 13
+  : [Lecture 13](slides/Lecture13.pptx){:target="_blank"} 
+ 
