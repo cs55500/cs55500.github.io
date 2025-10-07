@@ -8,7 +8,7 @@ September 4
 
   - [Pset Template](psets/CS55500_Pset_Template.zip){:target="_blank"}  
 
-  : [Pset Template Overleaf](https://www.overleaf.com/read/tznkpjbfwssm#5d8075){:target="_blank"}
+  - [Pset Template Overleaf](https://www.overleaf.com/read/tznkpjbfwssm#5d8075){:target="_blank"}
 
 September 9
 : One-way Function implication, PRG Construction, Hardcore Bit Construction (GL Theorem)
@@ -20,12 +20,12 @@ September 9
 
 September 11
 : GL Theorem Cont. Stateless Encryptuion, Psuedorandom Functions
-  : [Lecture 6](slides/Lecture6.pptx){:target="_blank"} 
+  - [Lecture 6](slides/Lecture6.pptx){:target="_blank"} 
 
 September 16
 : GGM Construction, More PRFs
-  : [Lecture 7](slides/Lecture7.pptx){:target="_blank"} 
+  - [Lecture 7](slides/Lecture7.pptx){:target="_blank"} 
 
 September 18
 : More Applications of PRFs
-  : [Lecture 8](slides/Lecture8.pptx){:target="_blank"} 
+  - [Lecture 8](slides/Lecture8.pptx){:target="_blank"} 

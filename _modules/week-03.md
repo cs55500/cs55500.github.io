@@ -5,13 +5,13 @@ title: Public-key Encryption
 
 September 23
 : Diffie-Hellman
-  : [Lecture 9](slides/Lecture9.pptx){:target="_blank"} 
+  - [Lecture 9](slides/Lecture9.pptx){:target="_blank"} 
 
 September 25
 : Lecture 10
-  : [Lecture 10](slides/Lecture10.pptx){:target="_blank"} 
+  - [Lecture 10](slides/Lecture10.pptx){:target="_blank"} 
 
-  : [Lecture 10 Notes](notes/L10Notes.pdf){:target="_blank"} 
+  - [Lecture 10 Notes](notes/L10Notes.pdf){:target="_blank"} 
 
 September 30
 : Lecture 11
@@ -25,7 +25,7 @@ September 30
 
 October 2
 : Lecture 12
-  : [Lecture 12](slides/Lecture12.pptx){:target="_blank"} 
+  - [Lecture 12](slides/Lecture12.pptx){:target="_blank"} 
  
 
 October 7
