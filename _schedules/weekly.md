@@ -43,7 +43,7 @@ schedule:
       end: 10:15 AM
       location: Max W & Maileen Brown Hall
     - name: TA Office Hours
-      start: 10:00 AM
+      start: 10:30 AM
       end: 12:30 PM
       location: LWSN 1st Floor Commons
   - name: Friday
