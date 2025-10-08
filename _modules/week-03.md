@@ -6,6 +6,7 @@ title: Public-key Encryption
 September 23
 : Diffie-Hellman
   - [Lecture 9](slides/Lecture9.pptx){:target="_blank"} 
+  - [Lecture 9 Notes](notes/L9Notes.pdf){:target="_blank"}
 
 September 25
 : Trapdoor Permutations, RSA, Goldwasser-Micali
