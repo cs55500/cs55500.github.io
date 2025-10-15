@@ -18,4 +18,4 @@ October 13
 
 October 15
 : Midterm Practice
-  [Midterm Practice](homework/CS55500_Midterm_Practice_Solutions.pdf){:target="_blank"}
+  [Midterm Practice Solutions](homework/CS55500_Midterm_Practice_Solutions.pdf){:target="_blank"}

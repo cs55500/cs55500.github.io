@@ -1,0 +1,52 @@
+\documentclass{article}
+\input{preamble.tex}
+
+% configure document 
+\setlength{\oddsidemargin}{.25in}
+\setlength{\evensidemargin}{.25in}
+\setlength{\textwidth}{6in}
+\setlength{\topmargin}{-0.4in}
+\setlength{\textheight}{8.5in}
+
+\begin{document}
+
+%%% TODO: update with every pset
+\newcommand{\psetnum}{<X>}    
+\newcommand{\psettitle}{Problem Set \psetnum}
+\newcommand{\myname}{<Your Name>} % Your name here!
+\newcommand{\mycolaborators}{<Collaborators>} %{{\bf Collaborators:} List your collaborators here!}   
+
+
+\lecturenotes{Due: TBD}{\myname}{\mycolaborators}{\psettitle}{}
+
+\noindent \textbf{Total Number of Points}: 40.
+\\
+\\\noindent 
+\textbf{Collaboration Policy:} Collaboration is permitted and encouraged in small groups of at most three students. You are free to collaborate in discussing answers, but you must write up solutions on your own, and must specify in your submission the names of any collaborators. Do not copy any text from your collaborators; the writeup must be entirely your work. Do not write down solutions on a board and copy it verbatim into \LaTeX; again, the writeup must be entirely your own words and your own work and should demonstrate clear understanding of the solution. Additionally, you may make use of published material, provided that you acknowledge all sources used. Of course, scavenging for solutions from prior years is forbidden. 
+
+
+\section*{Problem 1}
+Here is where you write the solution to Problem 1.
+
+\section*{Problem 2}
+
+% this makes it so that each \item from \enumerate is (a), (b), ...
+\renewcommand{\labelenumi}{(\alph{enumi})}
+
+\begin{enumerate}
+    \item Here's one way to split up your work into different parts (a), (b),
+        ...
+    \item For more info, check out
+        \url{https://www.overleaf.com/learn/latex/lists}.
+    \item Some other helpful commands for \LaTeX:
+        % make a bulleted list
+        \begin{itemize}
+            \item For an expression like $f(\log x)$ in the middle of a sentence,
+                use dollar signs.
+            \item For large expressions or equations, separate the math in its
+                own line:
+                \[ \text{Pr} [X > (1 + \beta) \mu ) ] \leq e^{-\frac{\beta \mu}{3}}.\]
+        \end{itemize}
+\end{enumerate}
+
+\end{document}

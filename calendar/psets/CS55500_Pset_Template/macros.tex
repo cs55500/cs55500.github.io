@@ -1,0 +1,121 @@
+
+% font for general-purpose algorithms
+\newcommand{\algo}[1]{\ensuremath{\mathsf{#1}}}
+% font for complexity classes
+\newcommand{\class}[1]{\ensuremath{\mathsf{#1}}}
+
+\newcommand{\bstr}[1]{\{0, 1\}^{#1}} % binary string
+
+\newcommand{\key}[1]{\ensuremath{#1}}
+
+\newcommand{\pk}{{\key{pk}}}
+\newcommand{\vk}{{\key{vk}}}
+\newcommand{\sk}{{\key{sk}}}
+\newcommand{\mpk}{\key{mpk}}
+\newcommand{\msk}{\key{msk}}
+\newcommand{\fk}{\key{fk}}
+\newcommand{\id}{id}
+
+% \newcommand{\concat}{\ensuremath{\|}}
+
+% GAMES
+
+% advantage
+\newcommand{\advan}{\ensuremath{\mathbf{Adv}}}
+
+% different attack models
+\newcommand{\attack}[1]{\ensuremath{\text{#1}}}
+
+\newcommand{\atk}{\attack{atk}} % dummy attack
+\newcommand{\indcpa}{\attack{ind-cpa}}
+\newcommand{\indcca}{\attack{ind-cca}}
+\newcommand{\anocpa}{\attack{ano-cpa}} % anonymous
+\newcommand{\anocca}{\attack{ano-cca}}
+\newcommand{\euacma}{\attack{eu-acma}} % forgery: adaptive chosen-message
+\newcommand{\euscma}{\attack{eu-scma}} % forgery: static chosen-message
+\newcommand{\suacma}{\attack{su-acma}} % strongly unforgeable
+
+% ADVERSARIES
+\newcommand{\attacker}[1]{\ensuremath{\mathcal{#1}}}
+
+\newcommand{\Adv}{\attacker{A}}
+\newcommand{\AdvA}{\attacker{A}}
+\newcommand{\AdvB}{\attacker{B}}
+\newcommand{\Chall}{\attacker{C}}
+\newcommand{\Dist}{\attacker{D}}
+\newcommand{\Sim}{\attacker{S}}
+\newcommand{\Ora}{\attacker{O}}
+\newcommand{\Inv}{\attacker{I}}
+\newcommand{\For}{\attacker{F}}
+
+% CRYPTO SCHEMES
+
+\newcommand{\scheme}[1]{\ensuremath{\text{#1}}}
+
+% pseudorandom stuff
+% \newcommand{\prg}{\algo{PRG}}
+\newcommand{\prf}{\algo{PRF}}
+\newcommand{\prp}{\algo{PRP}}
+
+% symmetric-key cryptosystem
+\newcommand{\skc}{\scheme{SK}}
+\newcommand{\skcgen}{\algo{Gen}}
+\newcommand{\skcenc}{\algo{Enc}}
+\newcommand{\skcdec}{\algo{Dec}}
+\newcommand{\samp}{\algo{Samp}}
+
+
+% public-key cryptosystem
+\newcommand{\pkc}{\scheme{PKC}}
+\newcommand{\pkcgen}{\algo{Gen}}
+\newcommand{\pkcenc}{\algo{Enc}} % can also use \kemenc and \kemdec
+\newcommand{\pkcdec}{\algo{Dec}}
+\newcommand{\ct}{\mathsf{ct}}
+
+% digital signatures
+\newcommand{\sig}{\scheme{SIG}}
+\newcommand{\siggen}{\algo{Gen}}
+\newcommand{\sigsign}{\algo{Sign}}
+\newcommand{\sigver}{\algo{Ver}}
+
+\newcommand{\sign}{\mathsf{Sign}}
+\newcommand{\ver}{\mathsf{Ver}}
+
+% message authentication code
+\newcommand{\mac}{\scheme{MAC}}
+\newcommand{\macgen}{\algo{Gen}}
+\newcommand{\mactag}{\algo{Mac}}
+\newcommand{\macver}{\algo{Ver}}
+
+% calligraphic letters
+\newcommand{\calA}{\mathcal{A}}
+\newcommand{\calB}{\mathcal{B}}
+\newcommand{\calC}{\mathcal{C}}
+\newcommand{\calD}{\mathcal{D}}
+\newcommand{\calE}{\mathcal{E}}
+\newcommand{\calF}{\mathcal{F}}
+\newcommand{\calG}{\mathcal{G}}
+\newcommand{\calH}{\mathcal{H}}
+\newcommand{\calI}{\mathcal{I}}
+\newcommand{\calJ}{\mathcal{J}}
+\newcommand{\calK}{\mathcal{K}}
+\newcommand{\calL}{\mathcal{L}}
+\newcommand{\calM}{\mathcal{M}}
+\newcommand{\calN}{\mathcal{N}}
+\newcommand{\calO}{\mathcal{O}}
+\newcommand{\calP}{\mathcal{P}}
+\newcommand{\calQ}{\mathcal{Q}}
+\newcommand{\calR}{\mathcal{R}}
+\newcommand{\calS}{\mathcal{S}}
+\newcommand{\calT}{\mathcal{T}}
+\newcommand{\calU}{\mathcal{U}}
+\newcommand{\calV}{\mathcal{V}}
+\newcommand{\calW}{\mathcal{W}}
+\newcommand{\calX}{\mathcal{X}}
+\newcommand{\calY}{\mathcal{Y}}
+\newcommand{\calZ}{\mathcal{Z}}
+
+% probability and other mathops
+\renewcommand{\Pr}{\mathop{\bf Pr\/}}
+\newcommand{\EE}{\mathop{\bf E\/}}
+
