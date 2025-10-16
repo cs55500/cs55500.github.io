@@ -21,3 +21,6 @@ October 15
 : Midterm Practice
 
   [Midterm Practice Solutions](homework/CS55500_Midterm_Practice_Solutions.pdf){:target="_blank"}
+
+October 16
+  [Lecture 15](slides/Lecture15.pptx){:target="_blank"}, [Lecture 15 Notes](notes/L15Notes.pdf){:target="_blank"} 
