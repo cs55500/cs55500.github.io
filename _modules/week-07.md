@@ -2,6 +2,11 @@
 title: Zero Knowledge Proofs
 ---
 
+October 16
+: Lecture 15
+  [Lecture 15](slides/Lecture15.pptx){:target="_blank"}, [Lecture 15 Notes](notes/L15Notes.pdf){:target="_blank"} 
+
+
 October 21
 : Lecture 16
   [Lecture 16](slides/Lecture16.pptx){:target="_blank"}, [Lecture 16 Notes](notes/L15Notes.pdf){:target="_blank"} 
