@@ -2,6 +2,7 @@
 title: Secret Sharing
 ---
 
-October 28
-: Lecture 17
-  [Lecture 17](slides/Lecture17.pptx){:target="_blank"}, [Lecture 17 Notes](notes/L17Notes.pdf){:target="_blank"} 
+October 16
+: Lecture 15
+  [Lecture 15](slides/Lecture15.pptx){:target="_blank"}, [Lecture 15 Notes](notes/L15Notes.pdf){:target="_blank"} 
+
