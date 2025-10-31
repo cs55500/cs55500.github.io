@@ -1,3 +1,3 @@
 ---
-title: Secret Sharing
+title: Private Information Retrieval
 ---
