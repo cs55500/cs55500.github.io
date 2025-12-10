@@ -8,7 +8,7 @@ October 28
 
 October 28
 : Lecture 19
-  [Lecture 19](slides/Lecture18.pptx){:target="_blank"}, [Lecture 19 Notes](notes/L18Notes.pdf){:target="_blank"} 
+  [Lecture 19](slides/Lecture19.pptx){:target="_blank"}, [Lecture 19 Notes](notes/L18Notes.pdf){:target="_blank"} 
 
 : Lecture 20
   [Lecture 20](slides/Lecture20.pptx){:target="_blank"}, [Lecture 20 Notes](notes/L18Notes.pdf){:target="_blank"} 
