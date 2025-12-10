@@ -8,10 +8,10 @@ October 28
 
 October 28
 : Lecture 19
-  [Lecture 19](slides/Lecture19.pptx){:target="_blank"}, [Lecture 19 Notes](notes/L19Notes.pdf){:target="_blank"} 
+  [Lecture 19](slides/Lecture18.pptx){:target="_blank"}, [Lecture 19 Notes](notes/L19Notes.pdf){:target="_blank"} 
 
 : Lecture 20
-  [Lecture 20](slides/Lecture20.pptx){:target="_blank"}, [Lecture 20 Notes](notes/L20Notes.pdf){:target="_blank"} 
+  [Lecture 20](slides/Lecture18.pptx){:target="_blank"}, [Lecture 20 Notes](notes/L20Notes.pdf){:target="_blank"} 
 
 : Lecture 21
-  [Lecture 21](slides/Lecture21.pptx){:target="_blank"}, [Lecture 21 Notes](notes/L21Notes.pdf){:target="_blank"} 
+  [Lecture 21](slides/Lecture18.pptx){:target="_blank"}, [Lecture 21 Notes](notes/L21Notes.pdf){:target="_blank"} 
